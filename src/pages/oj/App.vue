@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         <p v-html="website.website_footer"></p>
-        <p>Powered by <a href="https://wooyoung85.tistory.com">서우영</a>
+        <p>Copyright &copy; 2019.<a href="https://wooyoung85.tistory.com">서우영 Co. All right reserved.</a>
           <span v-if="version">&nbsp; Version: {{ version }}</span>
         </p>
       </div>
