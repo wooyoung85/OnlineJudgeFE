@@ -101,4 +101,4 @@ export const m = {
   HTTPS_Status: 'HTTPS 상태',
   Force_HTTPS: '강제 HTTPS',
   CDN_HOST: 'CDN 호스트'
-}
+  }
